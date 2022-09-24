@@ -3,6 +3,7 @@
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
+# Ads
 thathechoxe.com
 uncleffaan.com
 gambling-malta.com
@@ -12,12 +13,22 @@ freiodablazer.com
 kto.com
 mediasama.com
 tentacaobrasileira.com.br
+co5n3nerm6arapo7ny.com
 
 # Chinese sites and DNS
 baidu.com
 jomodns.com
 shifen.com
 gshifen.com
+wshifen.com
 tdnsv6.com
 miit.gov.cn
 qcloudcjgj.com
+sina.com.cn
+qq.com
+taobao.com
+126.com
+router.tracking.miui.com
+hualaikeji.com
+bdydns.com
+bcebos.com
