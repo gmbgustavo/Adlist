@@ -1,0 +1,23 @@
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# Personal Blocklist by Manolo3k
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+thathechoxe.com
+uncleffaan.com
+gambling-malta.com
+bongacams.net
+intorterraon.com
+freiodablazer.com
+kto.com
+mediasama.com
+tentacaobrasileira.com.br
+
+# Chinese sites and DNS
+baidu.com
+jomodns.com
+shifen.com
+gshifen.com
+tdnsv6.com
+miit.gov.cn
+qcloudcjgj.com
