@@ -4,31 +4,40 @@
 
 
 # Ads
-thathechoxe.com
-uncleffaan.com
-gambling-malta.com
-bongacams.net
-intorterraon.com
-freiodablazer.com
-kto.com
-mediasama.com
-tentacaobrasileira.com.br
-co5n3nerm6arapo7ny.com
+0.0.0.0 thathechoxe.com
+0.0.0.0 uncleffaan.com
+0.0.0.0 gambling-malta.com
+0.0.0.0 bongacams.net
+0.0.0.0 intorterraon.com
+0.0.0.0 freiodablazer.com
+0.0.0.0 kto.com
+0.0.0.0 mediasama.com
+0.0.0.0 tentacaobrasileira.com.br
+0.0.0.0 co5n3nerm6arapo7ny.com
 
 # Chinese sites and DNS
-baidu.com
-jomodns.com
-shifen.com
-gshifen.com
-wshifen.com
-tdnsv6.com
-miit.gov.cn
-qcloudcjgj.com
-sina.com.cn
-qq.com
-taobao.com
-126.com
-router.tracking.miui.com
-hualaikeji.com
-bdydns.com
-bcebos.com
+0.0.0.0 baidu.com
+0.0.0.0 jomodns.com
+0.0.0.0 shifen.com
+0.0.0.0 gshifen.com
+0.0.0.0 wshifen.com
+0.0.0.0 tdnsv6.com
+0.0.0.0 miit.gov.cn
+0.0.0.0 qcloudcjgj.com
+0.0.0.0 sina.com.cn
+0.0.0.0 qq.com
+0.0.0.0 taobao.com
+0.0.0.0 126.com
+0.0.0.0 router.tracking.miui.com
+0.0.0.0 hualaikeji.com
+0.0.0.0 bdydns.com
+0.0.0.0 bcebos.com
+0.0.0.0 beian.gov.cn
+0.0.0.0 pan.baidu.com
+0.0.0.0 passport.baidu.com
+0.0.0.0 n.shifen.com
+0.0.0.0 jiashule.com
+0.0.0.0 ir.baidu.com
+0.0.0.0 help.baidu.com
+110.242.68.66    # baidu.com
+39.156.66.10    # baidu.com
