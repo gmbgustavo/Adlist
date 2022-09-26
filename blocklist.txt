@@ -39,5 +39,7 @@
 0.0.0.0 jiashule.com
 0.0.0.0 ir.baidu.com
 0.0.0.0 help.baidu.com
+0.0.0.0 www.baidu.com
 110.242.68.66    # baidu.com
 39.156.66.10    # baidu.com
+
