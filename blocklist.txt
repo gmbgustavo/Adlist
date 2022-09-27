@@ -4,18 +4,14 @@
 
 
 # Ads and Scam
-0.0.0.0 thathechoxe.com
 0.0.0.0 uncleffaan.com
 0.0.0.0 gambling-malta.com
 0.0.0.0 bongacams.net
-0.0.0.0 intorterraon.com
 0.0.0.0 freiodablazer.com
-0.0.0.0 kto.com
 0.0.0.0 mediasama.com
 0.0.0.0 tentacaobrasileira.com.br
 0.0.0.0 co5n3nerm6arapo7ny.com
 0.0.0.0 tufos.com.br
-0.0.0.0 bongacams7.com
 0.0.0.0 c685ad29ce.com
 
 # Chinese sites and DNS
