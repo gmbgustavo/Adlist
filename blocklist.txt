@@ -3,7 +3,7 @@
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
-# Ads
+# Ads and Scam
 0.0.0.0 thathechoxe.com
 0.0.0.0 uncleffaan.com
 0.0.0.0 gambling-malta.com
@@ -14,6 +14,9 @@
 0.0.0.0 mediasama.com
 0.0.0.0 tentacaobrasileira.com.br
 0.0.0.0 co5n3nerm6arapo7ny.com
+0.0.0.0 tufos.com.br
+0.0.0.0 bongacams7.com
+0.0.0.0 c685ad29ce.com
 
 # Chinese sites and DNS
 0.0.0.0 baidu.com
@@ -42,4 +45,3 @@
 0.0.0.0 www.baidu.com
 110.242.68.66    # baidu.com
 39.156.66.10    # baidu.com
-
