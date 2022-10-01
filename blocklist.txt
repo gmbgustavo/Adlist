@@ -13,6 +13,9 @@
 0.0.0.0 co5n3nerm6arapo7ny.com
 0.0.0.0 tufos.com.br
 0.0.0.0 c685ad29ce.com
+0.0.0.0 worker.sf-tools.com
+0.0.0.0 allawnos.com
+
 
 # Chinese sites and DNS
 0.0.0.0 baidu.com
