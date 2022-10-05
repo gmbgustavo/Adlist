@@ -15,6 +15,7 @@
 0.0.0.0 c685ad29ce.com
 0.0.0.0 worker.sf-tools.com
 0.0.0.0 allawnos.com
+0.0.0.0 trk.zedia.com.br
 
 
 # Chinese sites and DNS
@@ -27,7 +28,7 @@
 0.0.0.0 miit.gov.cn
 0.0.0.0 qcloudcjgj.com
 0.0.0.0 sina.com.cn
-0.0.0.0 qq.com
+0.0.0.0 www.qq.com
 0.0.0.0 taobao.com
 0.0.0.0 126.com
 0.0.0.0 router.tracking.miui.com
@@ -44,3 +45,12 @@
 0.0.0.0 www.baidu.com
 110.242.68.66    # baidu.com
 39.156.66.10    # baidu.com
+0.0.0.0 sogou.com
+0.0.0.0 v.qq.com
+0.0.0.0 beianx.cn
+0.0.0.0 tdnsvs.com
+0.0.0.0 digicert.cn
+0.0.0.0 qzonestyle.gtimg.cn
+0.0.0.0 pingjs.qq.com
+
+
