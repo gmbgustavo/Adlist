@@ -23,6 +23,7 @@
 0.0.0.0 mbstrk.com
 0.0.0.0 www.infovidaeficaz.click
 0.0.0.0 www.aumentodefinitivo.site
+0.0.0.0 worker.sf-tools.com
 
 
 # Chinese sites and DNS
@@ -61,3 +62,6 @@
 0.0.0.0 pingjs.qq.com
 210.5.56.145
 210.5.56.146
+0.0.0.0 ocsp.digicert.cn.w.cdngslb.com
+0.0.0.0 ocsp.digicert.cn
+
