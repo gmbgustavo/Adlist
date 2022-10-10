@@ -19,11 +19,15 @@
 0.0.0.0 ptr.cnsat.com.cn
 0.0.0.0 woodbeesdainty.com
 0.0.0.0 tobis.live
-0.0.0.0 track.mbstrk.com
 0.0.0.0 mbstrk.com
 0.0.0.0 www.infovidaeficaz.click
 0.0.0.0 www.aumentodefinitivo.site
 0.0.0.0 worker.sf-tools.com
+
+# Telemetry
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 track.mbstrk.com
+0.0.0.0 msedge.net
 
 
 # Chinese sites and DNS
@@ -64,4 +68,3 @@
 210.5.56.146
 0.0.0.0 ocsp.digicert.cn.w.cdngslb.com
 0.0.0.0 ocsp.digicert.cn
-
