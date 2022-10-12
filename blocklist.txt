@@ -1,5 +1,5 @@
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-# Personal Blocklist by Manolo3k
+# Personal Blocklist by gmbgustavo
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
@@ -28,7 +28,8 @@
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 track.mbstrk.com
 0.0.0.0 msedge.net
-
+0.0.0.0 us.ott.io.mi.com
+0.0.0.0 part-0005.t-0009.t-msedge.net
 
 # Chinese sites and DNS
 0.0.0.0 baidu.com
