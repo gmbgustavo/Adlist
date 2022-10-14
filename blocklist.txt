@@ -27,7 +27,6 @@
 # Telemetry
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 track.mbstrk.com
-0.0.0.0 msedge.net
 0.0.0.0 us.ott.io.mi.com
 0.0.0.0 part-0005.t-0009.t-msedge.net
 
@@ -67,5 +66,3 @@
 0.0.0.0 pingjs.qq.com
 210.5.56.145
 210.5.56.146
-0.0.0.0 ocsp.digicert.cn.w.cdngslb.com
-0.0.0.0 ocsp.digicert.cn
