@@ -23,6 +23,17 @@
 0.0.0.0 www.infovidaeficaz.click
 0.0.0.0 www.aumentodefinitivo.site
 
+# Testing
+127.0.0.1 us.rdx2.lgtvsdp.com
+127.0.0.1 us.info.lgsmartad.com
+127.0.0.1 us.ibs.lgappstv.com
+127.0.0.1 us.lgtvsdp.com
+127.0.0.1 ad.lgappstv.com
+127.0.0.1 smartshare.lgtvsdp.com
+127.0.0.1 ibis.lgappstv.com
+127.0.0.1 smartshare.lgtvsdp.com
+0.0.0.0 br.ibsstat.lgappstv.com
+
 # Telemetry
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 track.mbstrk.com
