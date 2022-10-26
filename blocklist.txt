@@ -22,6 +22,8 @@
 0.0.0.0 mbstrk.com
 0.0.0.0 www.infovidaeficaz.click
 0.0.0.0 www.aumentodefinitivo.site
+0.0.0.0 meetlovemate.top
+
 
 # Testing
 127.0.0.1 us.rdx2.lgtvsdp.com
