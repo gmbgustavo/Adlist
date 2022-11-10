@@ -23,6 +23,8 @@
 0.0.0.0 www.infovidaeficaz.click
 0.0.0.0 www.aumentodefinitivo.site
 0.0.0.0 meetlovemate.top
+0.0.0.0 hotnightflirt.com
+0.0.0.0 betterdateshere.com
 
 
 # Testing
