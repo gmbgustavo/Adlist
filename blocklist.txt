@@ -25,6 +25,8 @@
 0.0.0.0 meetlovemate.top
 0.0.0.0 hotnightflirt.com
 0.0.0.0 betterdateshere.com
+0.0.0.0 ftd.agency
+0.0.0.0 adiktive.b-cdn.net
 
 
 # Testing
