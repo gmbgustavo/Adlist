@@ -28,6 +28,7 @@
 0.0.0.0 ftd.agency
 0.0.0.0 z.cdn.ftd.agency
 0.0.0.0 adiktive.b-cdn.net
+0.0.0.0 www.aerotown.com.br
 
 
 # Testing
