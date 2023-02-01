@@ -80,3 +80,4 @@
 0.0.0.0 digicert.cn
 0.0.0.0 qzonestyle.gtimg.cn
 0.0.0.0 pingjs.qq.com
+0.0.0.0 saasexch.com
