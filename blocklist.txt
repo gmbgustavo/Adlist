@@ -4,6 +4,7 @@
 
 
 # Ads and Scam
+0.0.0.0 ofertaspravoce.com
 0.0.0.0 uncleffaan.com
 0.0.0.0 gambling-malta.com
 0.0.0.0 bongacams.net
@@ -29,6 +30,10 @@
 0.0.0.0 z.cdn.ftd.agency
 0.0.0.0 adiktive.b-cdn.net
 0.0.0.0 www.aerotown.com.br
+0.0.0.0 20bet.com
+0.0.0.0 mylistodo.com
+0.0.0.0 uvempoahsurvey.top
+0.0.0.0 gemsyugi.co
 
 
 # Testing
