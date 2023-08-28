@@ -87,6 +87,7 @@
 0.0.0.0 qzonestyle.gtimg.cn
 0.0.0.0 pingjs.qq.com
 0.0.0.0 saasexch.com
+0.0.0.0 hao123.com
 
 # Mobile ads
 0.0.0.0 dad-api.dcard.tw
