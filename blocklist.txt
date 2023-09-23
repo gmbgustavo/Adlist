@@ -36,6 +36,7 @@
 0.0.0.0 gemsyugi.co
 0.0.0.0 20betlp.com
 0.0.0.0 lojalifeprimebrasiloficial.com
+0.0.0.0 affgate.top
 
 
 # LGTV WebOS
