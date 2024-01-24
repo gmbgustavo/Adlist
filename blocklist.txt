@@ -37,7 +37,10 @@
 0.0.0.0 20betlp.com
 0.0.0.0 lojalifeprimebrasiloficial.com
 0.0.0.0 affgate.top
-
+0.0.0.0 south32.com
+0.0.0.0 usaarmy.org
+0.0.0.0 1centstock.com
+0.0.0.0 njstate.org
 
 # LGTV WebOS
 0.0.0.0 ad.lgappstv.com
