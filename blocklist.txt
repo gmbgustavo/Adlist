@@ -5,6 +5,7 @@
 
 # Ads and Scam
 0.0.0.0 ofertaspravoce.com
+0.0.0.0 magsrv.com
 0.0.0.0 uncleffaan.com
 0.0.0.0 gambling-malta.com
 0.0.0.0 r.trackwilltrk.com
