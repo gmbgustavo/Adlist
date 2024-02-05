@@ -109,6 +109,12 @@
 0.0.0.0 pingjs.qq.com
 0.0.0.0 saasexch.com
 0.0.0.0 hao123.com
+0.0.0.0 dns15.hichina.com
+0.0.0.0 dns14.hichina.com
+0.0.0.0 dns13.hichina.com
+0.0.0.0 dns12.hichina.com
+0.0.0.0 dns11.hichina.com
+0.0.0.0 dns10.hichina.com
 
 # Mobile ads
 0.0.0.0 dad-api.dcard.tw
