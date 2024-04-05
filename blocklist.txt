@@ -43,6 +43,7 @@
 0.0.0.0 usaarmy.org
 0.0.0.0 1centstock.com
 0.0.0.0 njstate.org
+0.0.0.0 appleverification.info
 
 # LGTV WebOS
 0.0.0.0 ad.lgappstv.com
