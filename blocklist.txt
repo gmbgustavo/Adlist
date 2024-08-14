@@ -4,6 +4,7 @@
 
 
 # Ads and Scam
+0.0.0.0 12ezo5v60.com
 0.0.0.0 ofertaspravoce.com
 0.0.0.0 magsrv.com
 0.0.0.0 uncleffaan.com
