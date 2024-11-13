@@ -291,6 +291,7 @@ us.lgsmartad.com
 us.service.lgtvcommon.com
 
 # Telemetry
+prod.otel.kaizen.nvidia.com
 events.gfe.nvidia.com
 track.mbstrk.com
 us.ott.io.mi.com
