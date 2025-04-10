@@ -5,6 +5,7 @@
 # Ads and Scam
 
 0.0.0.0 cnhrapido.com
+0.0.0.0 pervcomix.com
 0.0.0.0 12ezo5v60.com
 0.0.0.0 correios360.com
 0.0.0.0 alfandega.correios360.com
