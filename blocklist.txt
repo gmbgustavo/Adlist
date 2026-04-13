@@ -5,6 +5,7 @@
 # Ads and Scam
 
 0.0.0.0 rastreamento-atendimento.click
+0.0.0.0 update-check.com
 0.0.0.0 semrush.com
 0.0.0.0 cnhrapido.com
 0.0.0.0 pervcomix.com
