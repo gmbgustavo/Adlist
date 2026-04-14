@@ -267,9 +267,9 @@
 0.0.0.0 heluvv.ru
 0.0.0.0 luxsliv.ru
 0.0.0.0 ehes.ru
-0.0.0.0 
-0.0.0.0 # LGTV WebOS
-0.0.0.0 
+
+# LGTV WebOS
+
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ibis.lgappstv.com
 0.0.0.0 jp.rdx2.lgtvsdp.com
