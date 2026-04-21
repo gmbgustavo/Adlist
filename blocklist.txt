@@ -267,6 +267,8 @@
 0.0.0.0 heluvv.ru
 0.0.0.0 luxsliv.ru
 0.0.0.0 ehes.ru
+0.0.0.0 anonymous.ads.brave.com
+0.0.0.0 pervcomix.com
 
 # LGTV WebOS
 
@@ -296,6 +298,7 @@
 
 
 # Telemetry
+0.0.0.0 telemetry.1passwordservices.com
 0.0.0.0 msftconnecttest.com
 0.0.0.0 prod.otel.kaizen.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
