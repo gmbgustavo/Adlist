@@ -20,6 +20,7 @@
 0.0.0.0 oneconcord.net
 0.0.0.0 ou2sv.com
 0.0.0.0 puicdn.com
+0.0.0.0 pneydn.com
 
 
 # Ads and Scam
