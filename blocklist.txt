@@ -300,6 +300,9 @@
 
 # Telemetry
 0.0.0.0 telemetry.1passwordservices.com
+0.0.0.0 anonymous.ads.brave.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 msftconnecttest.com
 0.0.0.0 prod.otel.kaizen.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
