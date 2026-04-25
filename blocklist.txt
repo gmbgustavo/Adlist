@@ -273,6 +273,7 @@
 
 # Bigpanzi / Pandoraspear / pcdn botnet
 
+||aliyuncs.com^
 ||irtrflz.com^
 ||ourhousei.com^
 ||fireisi.com^
