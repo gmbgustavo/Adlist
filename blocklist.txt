@@ -1,8 +1,4 @@
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-# Personal Blocklist by gmbgustavo
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-# Ads and Scam
+[Adblock Plus]
 
 ||rastreamento-atendimento.click
 ||update-check.com
