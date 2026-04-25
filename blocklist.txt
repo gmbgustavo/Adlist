@@ -274,6 +274,7 @@
 # Bigpanzi / Pandoraspear / pcdn botnet
 
 ||aliyuncs.com^
+||puata.info^
 ||schlund.de^
 ||ideasip.com^
 ||irtrflz.com^
