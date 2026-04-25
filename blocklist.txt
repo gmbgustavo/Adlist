@@ -17,6 +17,10 @@
 0.0.0.0 hgdsd.com
 0.0.0.0 brasilhtv-epg1.cc
 0.0.0.0 pugexiz.com
+0.0.0.0 oneconcord.net
+0.0.0.0 ou2sv.com
+0.0.0.0 puicdn.com
+
 
 # Ads and Scam
 
