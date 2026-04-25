@@ -2,6 +2,22 @@
 # Personal Blocklist by gmbgustavo
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+# Set-top box botnets
+0.0.0.0 ourhousei.com
+0.0.0.0 fireisi.com
+0.0.0.0 mf1ve.com
+0.0.0.0 ftsym1.com
+0.0.0.0 dyanoe.com
+0.0.0.0 oygaf.com
+0.0.0.0 snarutox.com
+0.0.0.0 str2c.com
+0.0.0.0 lgdaf.com
+0.0.0.0 kfdaf.com
+0.0.0.0 pifsq.com
+0.0.0.0 hgdsd.com
+0.0.0.0 brasilhtv-epg1.cc
+0.0.0.0 pugexiz.com
+
 # Ads and Scam
 
 0.0.0.0 rastreamento-atendimento.click
