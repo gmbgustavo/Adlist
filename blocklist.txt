@@ -274,6 +274,7 @@
 # Bigpanzi / Pandoraspear / pcdn botnet
 
 ||umeng.com^
+||lfgs1gie.com^
 ||api.bz^
 ||sjtu.edu.cn^
 ||fqjdcerbk.com^
