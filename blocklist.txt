@@ -273,6 +273,19 @@
 
 # Bigpanzi / Pandoraspear / pcdn botnet
 
+||umeng.com^
+||g8l1oglk.com^
+||otyvdz.com^
+||iyrfdr.com^
+||puicdn.com^
+||accscdn.m.taobao.com^
+||tnsfd.com^
+||hyazjrvos.com^
+||0ky087zm.xyz^
+||oyfgf.com^
+||jydfb8gtg.com^
+||mekdw.magispro.com^
+||got4s.com^
 ||aliyuncs.com^
 ||puata.info^
 ||schlund.de^
