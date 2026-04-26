@@ -4,9 +4,9 @@
 
 # Ads and Scam
 
-0.0.0.0 rastreamento-atendimento.click
+||rastreamento-atendimento.click^
 0.0.0.0 update-check.com
-0.0.0.0 semrush.com
+||semrush.com^
 0.0.0.0 cnhrapido.com
 0.0.0.0 pervcomix.com
 0.0.0.0 kkkhhhnnn.com
@@ -14,7 +14,7 @@
 0.0.0.0 correios360.com
 0.0.0.0 alfandega.correios360.com
 0.0.0.0 taxabrcorreios.com
-0.0.0.0 elon21.com
+||elon21.com^
 0.0.0.0 ofertaspravoce.com
 0.0.0.0 magsrv.com
 0.0.0.0 uncleffaan.com
@@ -1038,45 +1038,37 @@
 
 
 # Chinese sites and DNS
-0.0.0.0 baidu.com
-0.0.0.0 jomodns.com
-0.0.0.0 shifen.com
-0.0.0.0 gshifen.com
-0.0.0.0 wshifen.com
-0.0.0.0 tdnsv6.com
-0.0.0.0 miit.gov.cn
-0.0.0.0 qcloudcjgj.com
-0.0.0.0 sina.com.cn
-0.0.0.0 www.qq.com
-0.0.0.0 taobao.com
-0.0.0.0 126.com
-0.0.0.0 router.tracking.miui.com
-0.0.0.0 hualaikeji.com
-0.0.0.0 bdydns.com
-0.0.0.0 bcebos.com
-0.0.0.0 beian.gov.cn
-0.0.0.0 pan.baidu.com
-0.0.0.0 passport.baidu.com
-0.0.0.0 n.shifen.com
-0.0.0.0 jiashule.com
-0.0.0.0 ir.baidu.com
-0.0.0.0 help.baidu.com
-0.0.0.0 www.baidu.com
-0.0.0.0 sogou.com
-0.0.0.0 v.qq.com
-0.0.0.0 beianx.cn
-0.0.0.0 tdnsvs.com
-0.0.0.0 digicert.cn
-0.0.0.0 qzonestyle.gtimg.cn
-0.0.0.0 pingjs.qq.com
-0.0.0.0 saasexch.com
-0.0.0.0 hao123.com
-0.0.0.0 dns15.hichina.com
-0.0.0.0 dns14.hichina.com
-0.0.0.0 dns13.hichina.com
-0.0.0.0 dns12.hichina.com
-0.0.0.0 dns11.hichina.com
-0.0.0.0 dns10.hichina.com
+||baidu.com^
+||jomodns.com^
+||shifen.com^
+||gshifen.com^
+||wshifen.com^
+||tdnsv6.com^
+||miit.gov.cn^
+||qcloudcjgj.com^
+||sina.com.cn^
+||www.qq.com^
+||taobao.com^
+||126.com^
+||router.tracking.miui.com^
+||hualaikeji.com^
+||bdydns.com^
+||bcebos.com^
+||beian.gov.cn^
+||pan.baidu.com^
+||passport.baidu.com^
+||n.shifen.com^
+||jiashule.com^
+||sogou.com^
+||v.qq.com^
+||beianx.cn^
+||tdnsvs.com^
+||digicert.cn^
+||qzonestyle.gtimg.cn^
+||pingjs.qq.com^
+||saasexch.com^
+||hao123.com^
+||hichina.com^
 
 # Mobile ads
 0.0.0.0 dad-api.dcard.tw
