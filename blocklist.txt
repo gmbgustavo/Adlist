@@ -274,7 +274,9 @@
 # Bigpanzi / Pandoraspear / pcdn botnet
 
 ||umeng.com^
+||umeng.co^
 ||7vlonovt.com^
+||utrsed.com^
 ||lfgs1gie.com^
 ||udfgdr.com^
 ||utdab.com^
