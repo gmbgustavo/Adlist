@@ -5,6 +5,7 @@
 # Ads and Scam
 
 ||rastreamento-atendimento.click^
+||rastreio-entrega.site^
 0.0.0.0 update-check.com
 ||semrush.com^
 0.0.0.0 cnhrapido.com
