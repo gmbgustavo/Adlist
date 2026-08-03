@@ -32,6 +32,7 @@ ultxmnyqvnr.allmore.biz
 0.0.0.0 c685ad29ce.com
 0.0.0.0 worker.sf-tools.com
 0.0.0.0 allawnos.com
+0.0.0.0 xtisylouizz.teraglomix.biz
 0.0.0.0 trk.zedia.com.br
 0.0.0.0 ptr.cnsat.com.cn
 0.0.0.0 woodbeesdainty.com
