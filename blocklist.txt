@@ -1068,9 +1068,9 @@ ultxmnyqvnr.allmore.biz
 ||beian.gov.cn^
 ||pan.baidu.com^
 ||passport.baidu.com^
-|||jiashule.com^
+||jiashule.com^
 ||sogou.com^
-|||beianx.cn^
+||beianx.cn^
 ||tdnsvs.com^
 ||digicert.cn^
 ||gtimg.cn^
