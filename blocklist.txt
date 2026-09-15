@@ -392,6 +392,67 @@ ultxmnyqvnr.allmore.biz
 ||dlx4c.com^
 ||sl87362.com^
 ||ssl87362.com^
+0.0.0.0 apz.pdonno.com
+0.0.0.0 ok3.mflve.com
+0.0.0.0 pcn.panddna.com
+0.0.0.0 pcdnbus-bk.a2k3v.com
+0.0.0.0 hxbwhnxs.bv1tpvdco.com
+0.0.0.0 pandorabackup-1322908155.us-west-2.elb.amazonaws.com
+0.0.0.0 ageniustv1.cc
+0.0.0.0 eumk.wak2p.com
+0.0.0.0 www.htvmarket.com
+0.0.0.0 lof.sty1x.com
+0.0.0.0 pandorabackup.lftpdo.com
+0.0.0.0 mak.wak2p.com
+0.0.0.0 ageniusapp.cc
+0.0.0.0 sevenmiddleware.cf
+0.0.0.0 isam.homelinux.com
+0.0.0.0 werdzxa.9lhgdo.com
+0.0.0.0 pastebin.com
+0.0.0.0 channels2.homelinux.com
+0.0.0.0 vup.k2glu.com
+0.0.0.0 qhwh.waks2.com
+0.0.0.0 gt3.kt2wt.com
+0.0.0.0 pukpa.slkd4.com
+0.0.0.0 ji1.mxq1b.com
+0.0.0.0 pf3a.res4f.com
+0.0.0.0 pcdnfuc.ou2sv.com
+0.0.0.0 plslb.ou2sv.com
+0.0.0.0 btyu.pifsq.com
+0.0.0.0 cdab.p2mqt.com
+0.0.0.0 b1.str2c.com
+0.0.0.0 img.p2mqt.com
+0.0.0.0 ageniusvod.cc
+0.0.0.0 dmdz.res4f.com
+0.0.0.0 p5x.ty3w2.com
+0.0.0.0 apz.bsaldo.com
+0.0.0.0 jgp.pdltdgie.com
+0.0.0.0 jdak.jdsaf.com
+0.0.0.0 jdl.oygaf.com
+0.0.0.0 hts.nfdaf.com
+0.0.0.0 hsh.kfdaf.com
+0.0.0.0 jdz.lgdaf.com
+0.0.0.0 zms.mgfdaf.com
+0.0.0.0 snh.oygaf.com
+0.0.0.0 snh.kfdaf.com
+0.0.0.0 brasilhtv-epg1.cc
+0.0.0.0 abcr.ftsym1.com
+0.0.0.0 ok3.mf1ve.com
+0.0.0.0 vfz.str2c.com
+0.0.0.0 dcs.reakf.com
+0.0.0.0 dcs.tefds.com
+0.0.0.0 gsb.reakf.com
+0.0.0.0 gsb.tefds.com
+0.0.0.0 fadfa.gdalieyw.com
+0.0.0.0 fadfatest.pneydn.com
+0.0.0.0 jdl.pugexiz.com
+0.0.0.0 jdl.hgdsd.com
+0.0.0.0 clali.pg1ma2tla.com
+0.0.0.0 www.qicicloud.xyz
+0.0.0.0 api.qicicloud.xyz
+0.0.0.0 www.tenlsi1.club
+0.0.0.0 api.tenlsi1.club
+0.0.0.0 boxupgrade.dyndns.org
 
 # LGTV WebOS
 
