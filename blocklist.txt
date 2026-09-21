@@ -4,19 +4,20 @@
 
 # Ads and Scam
 
-one-vv4322.com
-aboveboardcomplicate.com
-xv4c8joab.cc.rs6.net
-track.pstmrk.it
-trackingservice.monday.com
-tracking.vortala.com
-u7269000.ct.sendgrid.net
+0.0.0.0 15hok.mjt.lu
+0.0.0.0 one-vv4322.com
+0.0.0.0 aboveboardcomplicate.com
+0.0.0.0 xv4c8joab.cc.rs6.net
+0.0.0.0 track.pstmrk.it
+0.0.0.0 trackingservice.monday.com
+0.0.0.0 tracking.vortala.com
+0.0.0.0 u7269000.ct.sendgrid.net
 ||cyberolynex.biz^
 ||controlecliente24.de^
-transfer703.pages.dev
+0.0.0.0 transfer703.pages.dev
 ||gtghh5.com^
 ||rastreamento-atendimento.click^
-ultxmnyqvnr.allmore.biz
+0.0.0.0 ultxmnyqvnr.allmore.biz
 ||rastreio-entrega.site^
 0.0.0.0 update-check.com
 ||semrush.com^
