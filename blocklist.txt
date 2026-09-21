@@ -27,6 +27,7 @@ ultxmnyqvnr.allmore.biz
 0.0.0.0 alfandega.correios360.com
 0.0.0.0 taxabrcorreios.com
 ||elon21.com^
+0.0.0.0 ztlrym.miralithos.biz
 0.0.0.0 ofertaspravoce.com
 0.0.0.0 magsrv.com
 0.0.0.0 uncleffaan.com
