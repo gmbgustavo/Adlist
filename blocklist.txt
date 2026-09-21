@@ -332,7 +332,7 @@ ultxmnyqvnr.allmore.biz
 ||pifsq.com^
 ||hgdsd.com^
 ||brasilhtv-epg1.cc^
-||pugexiz.com^
+# ||pugexiz.com^
 ||oneconcord.net^
 ||ou2sv.com^
 ||pneydn.com^
@@ -445,7 +445,6 @@ ultxmnyqvnr.allmore.biz
 0.0.0.0 gsb.tefds.com
 0.0.0.0 fadfa.gdalieyw.com
 0.0.0.0 fadfatest.pneydn.com
-0.0.0.0 jdl.pugexiz.com
 0.0.0.0 jdl.hgdsd.com
 0.0.0.0 clali.pg1ma2tla.com
 0.0.0.0 www.qicicloud.xyz
