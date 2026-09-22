@@ -335,7 +335,7 @@
 ||pifsq.com^
 ||hgdsd.com^
 ||brasilhtv-epg1.cc^
-# ||pugexiz.com^
+||pugexiz.com^
 ||oneconcord.net^
 ||ou2sv.com^
 ||pneydn.com^
@@ -394,7 +394,12 @@
 ||txp3tqc.com^
 ||dlx4c.com^
 ||sl87362.com^
+||dn3d4s.com^
 ||ssl87362.com^
+||hwrn.net^
+0.0.0.0 liter2.com
+0.0.0.0 peks.tyu6i.com
+0.0.0.0 tyu6i.com
 0.0.0.0 apz.pdonno.com
 0.0.0.0 ok3.mflve.com
 0.0.0.0 pcn.panddna.com
@@ -402,11 +407,9 @@
 0.0.0.0 hxbwhnxs.bv1tpvdco.com
 0.0.0.0 pandorabackup-1322908155.us-west-2.elb.amazonaws.com
 0.0.0.0 ageniustv1.cc
-0.0.0.0 eumk.wak2p.com
 0.0.0.0 www.htvmarket.com
 0.0.0.0 lof.sty1x.com
 0.0.0.0 pandorabackup.lftpdo.com
-0.0.0.0 mak.wak2p.com
 0.0.0.0 ageniusapp.cc
 0.0.0.0 sevenmiddleware.cf
 0.0.0.0 isam.homelinux.com
@@ -418,7 +421,6 @@
 0.0.0.0 gt3.kt2wt.com
 0.0.0.0 pukpa.slkd4.com
 0.0.0.0 ji1.mxq1b.com
-0.0.0.0 pf3a.res4f.com
 0.0.0.0 pcdnfuc.ou2sv.com
 0.0.0.0 plslb.ou2sv.com
 0.0.0.0 btyu.pifsq.com
@@ -426,7 +428,6 @@
 0.0.0.0 b1.str2c.com
 0.0.0.0 img.p2mqt.com
 0.0.0.0 ageniusvod.cc
-0.0.0.0 dmdz.res4f.com
 0.0.0.0 p5x.ty3w2.com
 0.0.0.0 apz.bsaldo.com
 0.0.0.0 jgp.pdltdgie.com
