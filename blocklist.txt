@@ -14,6 +14,7 @@
 0.0.0.0 trackingservice.monday.com
 0.0.0.0 tracking.vortala.com
 0.0.0.0 u7269000.ct.sendgrid.net
+0.0.0.0 steam-run.com
 ||cyberolynex.biz^
 ||controlecliente24.de^
 0.0.0.0 transfer703.pages.dev
