@@ -491,7 +491,6 @@ trc.taboola.com
 
 # Outros servidores de telemetria/anúncios do WebOS
 
-0.0.0.0 br.nextlgsdp.com
 0.0.0.0 jp.info.lgsmartad.com
 0.0.0.0 lgad.cjpowercast.com.edgesuite.net
 0.0.0.0 smartclip.com
