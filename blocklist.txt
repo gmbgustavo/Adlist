@@ -514,6 +514,12 @@ trc.taboola.com
 
 
 # Telemetry
+0.0.0.0 myhomescreen.tv
+0.0.0.0 vindicosuite.com
+0.0.0.0 pavv.co.kr
+0.0.0.0 pxni.panasonic.com
+0.0.0.0 smartclip.com
+0.0.0.0 smartclip.net
 0.0.0.0 telemetry.1passwordservices.com
 0.0.0.0 anonymous.ads.brave.com
 0.0.0.0 mobile.events.data.microsoft.com
