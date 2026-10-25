@@ -479,6 +479,7 @@ livedmost.lge.com
 tagan.adlightning.com
 cdn.taboola.com
 trc.taboola.com
+0.0.0.0 vcs.vdspf.com # VCS de atualização da Panasonic TV
 
 # ============================================================================
 # NUNCA BLOQUEAR (quebra loja, atualizacao, instalacao de IPK, conta LG):
