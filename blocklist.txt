@@ -513,6 +513,40 @@ trc.taboola.com
 0.0.0.0 ca.nextlgsdp.com
 0.0.0.0 eic.tv.wiselg.com
 
+127.0.0.1 samsungads.com
+127.0.0.1 www.samsungads.com
+127.0.0.1 cdn.samsungads.com
+127.0.0.1 sads.samsungads.com
+127.0.0.1 samsungadhub.com
+127.0.0.1 www.samsungadhub.com
+127.0.0.1 samsungtvads.com
+127.0.0.1 www.samsungtvads.com
+127.0.0.1 tvads.samsung.com
+127.0.0.1 samsungacr.com
+127.0.0.1 www.samsungacr.com
+127.0.0.1 log-ingestion.samsungacr.com
+127.0.0.1 samsungcloudsolution.com
+127.0.0.1 www.samsungcloudsolution.com
+127.0.0.1 sas.samsungcloudsolution.com
+127.0.0.1 otn.samsungcloudsolution.com
+127.0.0.1 osb.samsungcloudsolution.com
+127.0.0.1 notice.samsungcloudsolution.com
+127.0.0.1 sddc.samsungcloudsolution.com
+127.0.0.1 smp.samsungcloudsolution.com
+127.0.0.1 nmp.samsungcloudsolution.com
+127.0.0.1 samsungcloudsolution.net
+127.0.0.1 samsungosp.com
+127.0.0.1 www.samsungosp.com
+127.0.0.1 samsungcloud.tv
+127.0.0.1 tos.samsungcloud.tv
+127.0.0.1 log.samsungiotcloud.com
+# loja de apps - comente se quiser manter o Smart Hub
+# 127.0.0.1 samsungapps.com
+# 127.0.0.1 www.samsungapps.com
+# 127.0.0.1 sso.samsungapps.com
+# 127.0.0.1 inetfe.samsungapps.com
+# 127.0.0.1 multiav.samsungapps.com
+
 
 # Telemetry
 0.0.0.0 myhomescreen.tv
